@@ -1,5 +1,5 @@
 -- Problem: 1068. Product Sales Analysis I
--- Link: [https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description]
+-- Link: [https://leetcode.com/problems/product-sales-analysis-i/]
 -- Difficulty: [easy]
 -- Approach: We have to join the both tables on product_id bases. Them select the required columns.
 
